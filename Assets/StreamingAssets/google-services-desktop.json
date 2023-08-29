@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "47047723923",
+    "project_id": "stay-out-e6ac4",
+    "storage_bucket": "stay-out-e6ac4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47047723923:android:6be0cdb3679b9f7bdd3666",
+        "android_client_info": {
+          "package_name": "com.google.firebase.stay.out"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47047723923-4spo69per2sdaqol4gua3osits5anosu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsqo9Cx4FJ-xVY5OnHkLxv-NVr2rIP4zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47047723923-4spo69per2sdaqol4gua3osits5anosu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "47047723923-2ssrohj91b1b3qvcm2btvjcsfik761g8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.stay.out"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
